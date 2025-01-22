@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Santiago F. Torres </h1>
-<h3 align="center">I'm Ivan Santiago F. Torres, a 19-year old technical enthusiast who does web development, security research </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
@@ -26,5 +25,9 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=31A8FF)\
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ttowers-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ttowers-09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttowers-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
