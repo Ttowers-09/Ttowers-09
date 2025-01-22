@@ -1,8 +1,7 @@
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ivan Santiago F. Torres</h2>
-
-<!-- ## 👋 &nbsp;Hey there!  Ivan Santiago F. Torres -->
+Hi 👋, I'm Akhil G Krishnan
+I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
