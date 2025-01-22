@@ -1,7 +1,8 @@
 
+<h1 align="center">Hi 👋, I'm Ivan Santiago F. Torres </h1>
+<h3 align="center">I'm Ivan Santiago F. Torres, a 19-year old technical enthusiast who does web development, security research </h3>
 
-Hi 👋, I'm Akhil G Krishnan
-I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
