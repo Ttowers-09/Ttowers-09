@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Santiago F. Torres </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
